@@ -34,6 +34,18 @@ function Projects() {
           h3="Password Generator"
           p="Password Generator App"
         />
+        <ProjectCard
+          src={creator-dashboard}
+          link="https://github.com/Yadushree-k9898/creator-dashboard.git"
+          h3="Creator Dashboard"
+          p="Creator Dashboard App"
+        />
+        <ProjectCard
+          src={voice_note}
+          link="https://github.com/Yadushree-k9898/IdeaLog.git"
+          h3="Voice Notes"
+          p="Voice Notes App"
+        />
       </div>
     </section>
   );
